@@ -1,0 +1,15 @@
+{
+  "name": "playwright-lighthouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.21.1",
+    "lighthouse": "^9.5.0",
+    "playwright": "^1.21.1",
+    "playwright-lighthouse": "^2.2.1"
+  }
+}
